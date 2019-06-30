@@ -7,3 +7,4 @@
 - Chạy các test case trong phần control của project POM-MVC
 - chạy các test case trong phần test của project KeywordDriven(nhớ 
 thêm các file excell theo đúng đường dẫn sau: D:\\Keyword.xlsx )
+- Project sử dụng Selenium Webdriver cho java và Chrome Driver cho hệ điều hành Windows.
